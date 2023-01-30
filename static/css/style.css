@@ -1,27 +1,24 @@
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
+
     body {
-        background-color: #393E41;
-        color: white;
+        background-color: #2E3440;
+        color: #D8DEE9;
     }
 
     blockquote {
-      background: #393E41;
+      background: #2E3440;
     }
 
     a {
-      color: #EBC3DB;
-    }
-
-    header {
-      background: #393E41;
-      border-bottom: 2px dotted #EBC3DB;
-
-    }
+        color: #D08770;
+      }
+  
+      header {
+        background: #D08770;
+      }
 
     .article-meta, .menu a {
-      background: #393E41;
-      color: white;
+      background: #2E3440;
+      color: #D8DEE9;
     }
 
     table {
@@ -32,41 +29,7 @@
     table thead th { border-bottom: 1px solid #666; }
     th, td { padding: 5px; }
     tr:nth-child(even) { background: #666 }
-
-}
-
-
-/* Light mode */
-@media (prefers-color-scheme: light) {
-    blockquote {
-      background: #f9f9f9;
-    }
-
-    a {
-      color: #d16338;
-    }
-
-    header {
-      background: #d16338;
-    }
-
-    .article-meta, .menu a {
-      background: #E8DBC5;
-      color: #000;
-    }
-
-    table {
-      margin: auto;
-      border-top: 1px solid #666;
-      border-bottom: 1px solid #666;
-    }
-    table thead th { border-bottom: 1px solid #ddd; }
-    th, td { padding: 5px; }
-    tr:nth-child(even) { background: #eee }
-
-}
-
-
+    
 body {
   max-width: 800px;
   margin: auto;
