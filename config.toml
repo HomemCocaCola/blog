@@ -1,4 +1,4 @@
-baseURL = 'http://example.org'
-languageCode = 'en-us'
+baseURL = 'https://miraiy.netlify.app/'
+languageCode = 'pt-pt'
 title = 'Miraiy'
 theme = "hugo-classic"
