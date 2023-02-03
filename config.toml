@@ -28,12 +28,12 @@ tabWidth = 4
 post = "/post/:year/:month/:day/:slug/"
 
 [[menu.main]]
-name = "Diário"
+name = "Postagens"
 url = "/post/"
 weight = 1
 [[menu.main]]
-name = "Reviews"
-url = "/reviews/"
+name = "Categorias"
+url = "/categories/"
 weight = 2
 [[menu.main]]
 name = "Tags"
