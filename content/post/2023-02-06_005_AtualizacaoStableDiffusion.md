@@ -1,5 +1,5 @@
 ---
-title: "Diário - Obsidian Tunado"
+title: "Diário - Atualização Sobre o Caso do Stable Diffusion"
 date: 2023-02-06T14:50:37Z
 draft: false
 categories:
