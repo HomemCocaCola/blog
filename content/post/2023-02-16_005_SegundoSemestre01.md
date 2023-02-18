@@ -1,5 +1,5 @@
 ---
-title: "Diário - Segundo Semestre Começou"
+title: "Diário - 2.º Semestre Começou - 01"
 date: 2023-02-16T19:48:08Z
 draft: False
 categories:
