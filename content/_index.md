@@ -3,11 +3,17 @@ title: Home
 description: "O canto da internet, de uma pessoa chamada Miraiy."
 ---
 
+---
+
 ![Imagem](cWCSxMq.jpg)
+
+---
 
 ## Os Meus Outros Cantos da Internet
 
 [#Links-Uteis](https://rentry.org/linksuteis) • [MyAnimeList](https://myanimelist.net/profile/Miraiy) • [Letterboxd](https://letterboxd.com/Miraiy/) • [Last.FM](https://www.last.fm/user/Miraiy) • [RateYourMusic](https://rateyourmusic.com/~Miraiy) • [Backloggd](https://www.backloggd.com/u/Miraiy/)
+
+---
 
 
 ## Bem-vindo!
